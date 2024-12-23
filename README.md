@@ -11,3 +11,6 @@ Build simple guides and examples on how to use Git and GitHub
 
 # Resources
 data not available (sensitive)
+
+# PyCharm Title
+This is a PyCharm example
